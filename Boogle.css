@@ -1,0 +1,40 @@
+p1 {
+    padding-left: 950px;
+    color: blue;
+}
+h1 {
+    text-align: center;
+    padding-top: 100px;
+}
+button{
+   margin-left: 550px;
+}
+.mary {
+    color: blue;
+    margin-left: 950px;
+    width: 115px;
+    height: 20px;
+    }
+
+.searchdiv {
+    margin:0 auto;
+    text-align: center;    
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+.searchbox {
+   
+    width: 500px;
+    height: 20px;
+    border: 2px solid black;      
+}
+.link{
+    color:blue;
+    margin-top: 300px;
+    margin-left: 500px;
+}
+h5{
+    color: black;
+    text-align: center;
+}
